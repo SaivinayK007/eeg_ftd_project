@@ -43,13 +43,6 @@ Channels: 19 (10–20 system)
 - `.tsv` → Participant metadata
 - `.json` → EEG acquisition metadata
 
-### Participant Groups
-| Code | Description |
-|------|------------|
-| A | Alzheimer’s Disease |
-| F | Frontotemporal Dementia |
-| C | Healthy Control |
-
 ---
 
 ## 🏗️ System Pipeline
