@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Data folders (raw + processed)
+data/
+processed_epochs/
+features/
+results/
+
+# Temporary EEG files
+temp_EEG-*.set
+*.set
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
