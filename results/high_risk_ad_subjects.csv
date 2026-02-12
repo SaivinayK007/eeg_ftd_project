@@ -1,0 +1,4 @@
+subject,predicted,confidence,true_group,age,mmse
+sub-091,AD,61.61,A,62,20
+sub-090,AD,61.6,A,71,18
+sub-089,AD,61.54,A,66,15

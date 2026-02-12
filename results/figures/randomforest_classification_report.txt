@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+          AD       0.40      0.50      0.44         8
+         FTD       0.25      0.20      0.22         5
+          HC       0.50      0.43      0.46         7
+
+    accuracy                           0.40        20
+   macro avg       0.38      0.38      0.38        20
+weighted avg       0.40      0.40      0.39        20
